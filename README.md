@@ -3,7 +3,7 @@ Several models for predicting the outcome of European league soccer matches.
 
 ### Problem Statement
 ---
-Use daily astrological data to predict the price of Bitcoin.
+The goal is to predict the outcome of a game based on pre-game odds and some other information.
 
 ### Table of Contents
 ---
@@ -15,7 +15,7 @@ Use daily astrological data to predict the price of Bitcoin.
 
 ### Data_Collection
 ---
-After some exploration, I chose the data from football-data.co.uk. (https://www.football-data.co.uk/) It provides information about the odds of each of the six bookmakers on each match. Some companies, like Interwetten, don’t allow individuals to scrape data, and their odds are critical to analyzing the results. The football-data.co.uk site plays the role of a good database.  <br/>
+After some exploration, I chose the data from football-data.co.uk. (https://www.football-data.co.uk/) It provides information about the odds of each of the six bookmakers on each game. Some companies, like Interwetten, don’t allow individuals to scrape data, and their odds are critical to analyzing the results. The football-data.co.uk site plays the role of a good database.  <br/>
 You can find the notes for each column of data here: https://www.football-data.co.uk/notes.txt
 
 ### EDA
