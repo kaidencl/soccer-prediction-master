@@ -16,7 +16,8 @@ The goal is to predict the outcome of a game based on pre-game odds and some oth
 ### Data_Collection
 ---
 After some exploration, I chose the data from football-data.co.uk. (https://www.football-data.co.uk/) It provides information about the odds of each of the six bookmakers on each game. Some companies, like Interwetten, don’t allow individuals to scrape data, and their odds are critical to analyzing the results. The football-data.co.uk site plays the role of a good database.  <br/>
-You can find the notes for each column of data here: https://www.football-data.co.uk/notes.txt
+You can find the notes for each column of data here: https://www.football-data.co.uk/notes.txt <br/>
+I ended up with 3,551 rows of data, 3,516 rows after I deleted the null values.
 
 ### EDA
 ---
