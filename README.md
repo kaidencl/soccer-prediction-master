@@ -1,5 +1,5 @@
 # Soccer Prediction
-Several models for predicting the outcome of European league soccer matches.
+A probe into the prediction of the results of European league soccer matches.
 
 ### Problem Statement
 ---
